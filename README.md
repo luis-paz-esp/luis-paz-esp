@@ -5,9 +5,6 @@
 ---
 
 ### Proyectos Destacados
-### Proyectos Destacados
-
-### Proyectos Destacados
 
 **1. Pruebas Funcionales Web y Reporte en Jira (Urban Routes)**
 * *Descripción:* Proyecto de ciclo completo de pruebas manuales para una aplicación web.
