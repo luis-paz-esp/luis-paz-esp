@@ -7,20 +7,22 @@
 ### Proyectos Destacados
 ### Proyectos Destacados
 
+### Proyectos Destacados
+
 **1. Pruebas Funcionales Web y Reporte en Jira (Urban Routes)**
 * *Descripción:* Proyecto de ciclo completo de pruebas manuales para una aplicación web.
 * *Tecnologías:* Jira, Figma, Pruebas Funcionales, Cross-Browser Testing.
-* **[Ver Evidencias y Detalles del Proyecto ->]([proyecto-qa-web-urban-routes](https://github.com/luis-paz-esp/proyecto-qa-web-urban-routes))**
+* **[Ver Evidencias y Detalles del Proyecto ->](https://github.com/luis-paz-esp/proyecto-qa-web-urban-routes)**
 
 **2. Pruebas de API y Lógica de Negocio (Urban.Grocers)**
 * *Descripción:* Validación de endpoints de API y lógica de negocio con Postman.
 * *Tecnologías:* Postman, Jira, API Testing, Análisis de Requisitos Backend.
-* **[Ver Evidencias y Detalles del Proyecto ->]([proyecto-qa-api-urban-grocers](https://github.com/luis-paz-esp/proyecto-qa-api-urban-grocers))**
+* **[Ver Evidencias y Detalles del Proyecto ->](https://github.com/luis-paz-esp/proyecto-qa-api-urban-grocers)**
 
 **3. Análisis de Logs y Pruebas de Bases de Datos (App Taxis)**
 * *Descripción:* Investigación de errores mediante análisis de logs y SQL avanzado.
 * *Tecnologías:* SQL Avanzado, Linux/Bash, Análisis de Logs, PostgreSQL.
-* **[Ver Evidencias y Detalles del Proyecto ->]([proyecto-qa-sql-logs](https://github.com/luis-paz-esp/proyecto-qa-sql-logs))**
+* **[Ver Evidencias y Detalles del Proyecto ->](https://github.com/luis-paz-esp/proyecto-qa-sql-logs)**
 
 ---
 
