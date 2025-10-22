@@ -10,17 +10,17 @@
 **1. Pruebas Funcionales Web y Reporte en Jira (Urban Routes)**
 * *Descripción:* Proyecto de ciclo completo de pruebas manuales para una aplicación web.
 * *Tecnologías:* Jira, Figma, Pruebas Funcionales, Cross-Browser Testing.
-* **[Ver Evidencias y Detalles del Proyecto ->](URL_DEL_PROYECTO_1)**
+* **[Ver Evidencias y Detalles del Proyecto ->](proyecto-qa-web-urban-routes)**
 
 **2. Pruebas de API y Lógica de Negocio (Urban.Grocers)**
 * *Descripción:* Validación de endpoints de API y lógica de negocio con Postman.
 * *Tecnologías:* Postman, Jira, API Testing, Análisis de Requisitos Backend.
-* **[Ver Evidencias y Detalles del Proyecto ->](URL_DEL_PROYECTO_2)**
+* **[Ver Evidencias y Detalles del Proyecto ->](proyecto-qa-api-urban-grocers)**
 
 **3. Análisis de Logs y Pruebas de Bases de Datos (App Taxis)**
 * *Descripción:* Investigación de errores mediante análisis de logs y SQL avanzado.
 * *Tecnologías:* SQL Avanzado, Linux/Bash, Análisis de Logs, PostgreSQL.
-* **[Ver Evidencias y Detalles del Proyecto ->](URL_DEL_PROYECTO_3)**
+* **[Ver Evidencias y Detalles del Proyecto ->](proyecto-qa-sql-logs)**
 
 ---
 
